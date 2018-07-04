@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grader</string>
+    <string name="open">Open Nav</string>
+    <string name="close">Close Nav</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="title_activity_create_class">Create Class</string>
+</resources>
